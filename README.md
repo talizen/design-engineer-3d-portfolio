@@ -2,7 +2,9 @@
 
 Project shots line up in a curved 3D gallery with mirror reflections. Scroll or drag to move between projects, open one for details and more shots, plus a minimal about panel. Made for design engineers, front-end developers and independent designers.
 
-**[Live preview](https://qep0xkmvcsya.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep0xkkzxjma&utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio)**
+[![Design Engineer 3D Portfolio](https://fsu.creght.com/site/2121561300969459712/1794745197681__qcx1n7mqha4i_a.jpg?w=1200&fmt=jpg)](https://qep0xkmvcsya.site.talizen.com/)
+
+**[Live preview](https://qep0xkmvcsya.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep0xkkzxjma&utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio)** · **[Star on GitHub](https://github.com/talizen/design-engineer-3d-portfolio)**
 
 A free website template from **[Talizen Templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio)**, built with [Talizen](https://www.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=design-engineer-3d-portfolio).
 
